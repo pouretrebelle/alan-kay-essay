@@ -1,0 +1,12 @@
+﻿Introduction
+============
+
+In June 1945, before the bombing of Hiroshima, The Atlantic published an essay named “As We May Think” by Vannevar Bush, at the time a high-ranking military scientist. He wrote passionately about his concern that the scientific industry caused more damage in the war than resolution, that ‘our knowledge-creating tools had advanced faster than the knowledge-processing ones.’[IC116] He conceived of a theoretical machine, The Memex (a portmanteau of ‘memory’ and ‘index’) to solve this problem by democratising the accessibility of knowledge. The Memex would be a desktop information  processor; it could store vast sums of information, flexibly choose and display portions of it on a screen, and perform calculations. He equated its functionality to the human brain - ‘thus science may implement the ways in which man produces, stores, and consults the record of the race.’[AWMT]
+
+Bush was decades away from his idea being remotely technologically feasible, but the abstract concepts of machines imitating human processes, as a paradigm and as an ultimate goal, paved the path for innovators of the future.
+
+In 1977, Alan Kay published a paper in the journal Computer alongside his colleague Adele Goldberg called ‘Personal Dynamic Media’[PDM]. The paper detailed 5 years worth of theory and experimentation on future computing technology and ontology, culminating in another theoretical machine, The Dynabook. As well as the vision for The Dynabook, Kay presented a less-powerful manifestation of the concept that he referred to as the interim Dynabook, practically demonstrating some of his concepts in a rudimentary form.
+
+Computing pioneers had to shoot for the stars with their ideas because, although they were limited by contemporary hardware, they could envision them coming to fruition—hardware becoming both cheaper and more powerful every year, seemingly indefinitely.
+
+In this essay I will investigate Alan Kay’s ‘Personal Dynamic Media’, specifically the  context of his practice within the contemporary computing world and the key influences on his work. I would also like to explore the legacy of his work; how his ideas eventually proliferated into the consumer market, and the cultural and social implications of those innovations.
