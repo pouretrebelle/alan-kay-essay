@@ -9,6 +9,8 @@ In 1977, Alan Kay published a paper in the journal Computer alongside his collea
 
 Computing pioneers had to shoot for the stars with their ideas because, although they were limited by contemporary hardware, they could envision them coming to fruition—hardware becoming both cheaper and more powerful every year, seemingly indefinitely.
 
-In this essay I will investigate Alan Kay’s ‘Personal Dynamic Media’, specifically the  context of his practice within the contemporary computing world and the key influences on his work. I would also like to explore the legacy of his work; how his ideas eventually proliferated into the consumer market, and the cultural and social implications of those innovations.
-
 > For quality to emerge there muse be more visual thinkers who seize control of the computer’s future by contributing their personal vision. Not as mere written words of editorial complains but as working artifacts and architectures that can inspire the development of computing spaces painted through and through in the joyous colors of humanism.[M@M?]
+
+Kay called the Dynabook ‘a dynamic media for creative thought’[NMR394], it was the size of a regular notebook, powerful enough to exchange information at speeds equivalent to the human sensory system, and with ample data storage capabilities. He emphasises the desires for ‘flexibility, resolution, and response’[NMR394], defining the Dynabook primarily as a medium of data manipulation—a creative tool. Kay describes its futuristic text-editing abilities, drawing with a mouse, making music, tools for animation, and importantly its educational applications alongside the internal Smalltalk language.
+
+In this essay I will investigate Alan Kay’s ‘Personal Dynamic Media’ study, specifically the  context of his practice within the contemporary computing world and the key influences on his work. I would also like to explore the legacy of his work; how his ideas eventually proliferated into the consumer market, and the cultural and social implications of those innovations.
