@@ -10,3 +10,5 @@ In 1977, Alan Kay published a paper in the journal Computer alongside his collea
 Computing pioneers had to shoot for the stars with their ideas because, although they were limited by contemporary hardware, they could envision them coming to fruition—hardware becoming both cheaper and more powerful every year, seemingly indefinitely.
 
 In this essay I will investigate Alan Kay’s ‘Personal Dynamic Media’, specifically the  context of his practice within the contemporary computing world and the key influences on his work. I would also like to explore the legacy of his work; how his ideas eventually proliferated into the consumer market, and the cultural and social implications of those innovations.
+
+> For quality to emerge there muse be more visual thinkers who seize control of the computer’s future by contributing their personal vision. Not as mere written words of editorial complains but as working artifacts and architectures that can inspire the development of computing spaces painted through and through in the joyous colors of humanism.[M@M?]
