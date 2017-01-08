@@ -5,7 +5,7 @@ Before the bombing of Hiroshima, in June of 1945, The Atlantic published an essa
 
 Bush was decades away from his idea being remotely technologically feasible, but the abstract concepts of machines imitating human processes, as a paradigm and as an ultimate goal, paved the path for innovators of the future.
 
-In 1968, Douglas Engelbart gave a ground-breaking computer demonstration, retrospectively dubbed ‘The Mother of All Demos’[IG42] of a complete hardware and software system called the oN-Line System, or NLS. He showed futuristic technologies such as video conferencing and collaborative real-time text editing, as well as introducing hypertext and the mouse to the computing sphere.
+In 1968, Douglas Engelbart gave a ground-breaking computer demonstration, retrospectively dubbed ‘The Mother of All Demos’[IG42] of a complete hardware and software system called the oN-Line System, or NLS. He showed futuristic technologies such as video conferencing and collaborative real-time text editing, as well as introducing hypertext, windows and the mouse to the computing sphere.
 
 In 1977, Alan Kay published a paper in the journal Computer alongside his colleague Adele Goldberg called ‘Personal Dynamic Media’[PDM]. The paper detailed 12 years worth of theory and experimentation on future computing technology and ontology, culminating in another theoretical machine, The Dynabook. As well as the vision for The Dynabook, Kay presented a less-powerful manifestation of the concept that he referred to as the interim Dynabook, practically demonstrating some of his concepts in a rudimentary form.
 

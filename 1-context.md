@@ -48,4 +48,4 @@ __Images__ – icons, windows
 (recognize, compare, configure, concrete)
 makes
 __Symbols__ – Smalltalk language, built in mind of Logo
-(abstract, tie together long chains of reasoning)[UIAPV129]/[EHOS]
+(abstract, tie together long chains of reasoning, intuit)[UIAPV129]/[EHOS]
