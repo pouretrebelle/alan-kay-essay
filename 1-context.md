@@ -42,10 +42,10 @@ Kay’s visit to MIT made a big impression on him, it was clear that his work wi
 Papert was responsible for convincing Kay that learning was and should be inextricably linked to user interface design, and Bruner’s model of developmental mentalities gave Kay the framework on which to base his work. It was with this in mind Kay constructed the model of ‘Doing with Images makes Symbols’. Each element of the Dynabook was designed to facilitate enactive, iconic, and symbolic learning.
 
 __Doing__ – mouse, keyset and keyboard
-(knowing where you are)
+(knowing where you are, manipulate)
 with
 __Images__ – icons, windows
 (recognize, compare, configure, concrete)
 makes
-__Symbols__ – Smalltalk language
-(abstract, tie together)[EHOS]
+__Symbols__ – Smalltalk language, built in mind of Logo
+(abstract, tie together long chains of reasoning)[UIAPV129]/[EHOS]
