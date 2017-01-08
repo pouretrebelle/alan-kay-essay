@@ -1,4 +1,11 @@
-﻿Consequences
+﻿User Illusion
+=============
+
+While Kay was concretising the vision of the Dynabook, others at PARC were working towards a marketable PC using many of the interface ideas from the Dynabook. The Xerox Alto, the first computer based on a Graphical User Interface, was brought to market in 1973 and the Xerox Star in 1981.
+
+With the introduction of a _modeless_ desktop, trading in commands for mouse clicks, navigation had to be made visual. One of Kay’s protégés David Smith was the principal designer for the Star and made the connection between the desktop metaphor and using representations of those real-life objects to denote objects on the screen[Pyg]. While working alongside Kay on Smalltalk, Smith also took to Brunian development theory and recognised that using images for navigation would improve ease of use, as iconic learning is more fundamental than symbolic. The Star 8010 shipped with an array of glyphs (later fashioned into the word ‘icons’[BD110]) featuring dog-eared documents, folders, filing cabinets, printers, in and out trays, address books, calculators and computers.
+
+Consequences
 ============
 
 I think the innovations by Alan Kay and his contemporaries at PARC up to 1977 can be synthesised into ‘making computers useful to non-programmers’. It is this ideology that carried through into the 1981 Xerox Star, the first commercially-available computer with a Graphical User Interface, icons, folders, and mouse. Despite embodying an entire decade of ground-breaking innovation the Star only sold 25 thousand units[TFT235].
