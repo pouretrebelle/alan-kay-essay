@@ -2,6 +2,7 @@
 
 ## Introduction
 - Vannevar Bush’s Memex
+- Mother of All Demos
 - Analogous to PDM
 - Needing imagined systems before technology is available
 - Cute John Maeda quote
@@ -9,9 +10,6 @@
 - What am I going to write about
 
 ## Context
-- What was happening in computing at the time
-	- Englebart’s demo in 68
-	- The whole ARPA -> PARC migration
 - Sutherland
 	- Sketchpad and computers as visual tools
 - McLuhan
@@ -21,6 +19,12 @@
 - Bruner
 	- enactive, iconic and symbolic
 	- how each of the Dynabook’s elements controlled each of them
+
+## The Desktop Metaphor
+- ARC -> PARC migration
+- What they had to work with from the NKS
+- Modes
+- User Illusion
 
 ## Legacy
 - Implications for ‘new media’, Manovich
