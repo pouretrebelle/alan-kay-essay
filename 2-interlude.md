@@ -1,1 +1,5 @@
-﻿And so we come to 1977 and the publication of the Personal Dynamic Media study.
+﻿So far we’ve looked at the key media and educational philosophies that influenced Alan Kay between building the FLEX machine in 1968 and leading up to the Dynabook at Xerox PARC. Now I’d like to analyse the ‘Personal Dynamic Media’ study to evaluate how these philosophies were manifested.
+
+The study begins by introducing the Dynabook as a machine which could be ‘owned by everyone’[PDM] and adequately powerful for anybody’s needs. It specifically introduces Smalltalk as a ‘communication system’ instead of as a programming language, emphasising that it can be used by everybody and not only those adept at programming.
+
+The publication includes several examples of programs written in Smalltalk from applications for painting to music-making to animation to a hospital’s HR tracking. Each describes non-technical person (or group of people) having programming ideas and being able to execute them with no prior experience, including one ‘young girl’. It explains that they were greatly encouraged by the MIT Logo work to adopt children as their user community. Finding their excitement for programming compelling and their execution impressive, as well as noting that the children had a true sense of accomplishment and extended attention spans.
